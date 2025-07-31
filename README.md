@@ -26,7 +26,7 @@
 
 <h3>Connect with me</h3>
 <p>
-  <a href="mailto:yousef.reda0m@gmail.com" target="_blank">
+ <a href="mailto:yousef.reda0m@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Yousefreda19" target="_blank">
