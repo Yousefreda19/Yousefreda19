@@ -22,9 +22,17 @@
  
 </p>
 
-
-
-
 ------------
 
-
+<h3>Connect with me</h3>
+<p>
+  <a href="[https://github.com/YOUR_USERNAME](https://github.com/Yousefreda19)" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="[https://www.facebook.com/YOUR_FACEBOOK](https://www.facebook.com/profile.php?id=100012188683286)" target="_blank">
+    <img alt="Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
+  </a>
+</p>
